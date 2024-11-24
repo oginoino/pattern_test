@@ -48,3 +48,4 @@ pubspec.lock
 devtools_options.yaml
 analysis_options.yaml
 .metadata
+pattern_test.iml
